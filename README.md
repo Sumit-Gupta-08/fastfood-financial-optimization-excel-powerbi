@@ -147,7 +147,7 @@ Add your dashboard screenshots inside an `images/` folder and update the paths b
 
 ## Cluster Head Dashboard
 
-![Cluster Dashboard](images/CluterHead-Analysis.png)
+![Cluster Dashboard]([images/CluterHead-Analysis.png](https://github.com/Sumit-Gupta-08/fastfood-financial-optimization-excel-powerbi/blob/1fade7fd4cc47ee0f032231b1f99c2923080bd7d/Cluster%20Head%20-%20Analysis.png))
 
 ---
 
