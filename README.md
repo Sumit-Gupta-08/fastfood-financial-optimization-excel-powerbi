@@ -147,7 +147,7 @@ Add your dashboard screenshots inside an `images/` folder and update the paths b
 
 ## Cluster Head Dashboard
 
-![Cluster Dashboard](images/Cluter Head - Analysis.png)
+![Cluster Dashboard](images/CluterHead-Analysis.png)
 
 ---
 
